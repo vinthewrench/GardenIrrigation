@@ -6,7 +6,7 @@ Garden Irrigation Board
 
 <object data="Garden PCB schematic.pdf" type="application/pdf" width="600px" height="500px">
     <embed src="Garden PCB schematic.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Garden PCB schematic.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
@@ -16,7 +16,7 @@ DRV103 Plugin Board
 
 <object data="DRV103 Solenoid Driver Board.pdf" type="application/pdf" width="600px" height="500px">
     <embed src="DRV103 Solenoid Driver Board.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="DRV103 Solenoid Driver Board.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
