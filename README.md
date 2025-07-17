@@ -1,6 +1,32 @@
 # GardenIrrigation
 
-This is the hardware for 
+This is the hardware for Farm automation made easy as Pi
+
+Garden Irrigation Board
+
+<object data="Garden PCB schematic.pdf" type="application/pdf" width="600px" height="500px">
+    <embed src="Garden PCB schematic.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+![Garden Irrigation Board](GardenPCB.png)
+
+DRV103 Plugin Board
+
+<object data="DRV103 Solenoid Driver Board.pdf" type="application/pdf" width="600px" height="500px">
+    <embed src="DRV103 Solenoid Driver Board.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
+
+
+![DRV 103 Plugin](DRV103plugin.png)
+
+
+# Articles
 
 * [Farm automation made easy as Pi](https://www.vinthewrench.com/p/raspberry-pi-internet-of-things-part)
 * [Controlling the Irrigation valves.](https://www.vinthewrench.com/p/raspberry-pi-internet-of-things-part-23c)
