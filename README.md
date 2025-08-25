@@ -2,6 +2,8 @@
 
 This is the hardware for Farm automation made easy as Pi
 
+The entire series is at https://www.vinthewrench.com/p/off-grid-farm-automation-raspberry-pi
+
 Garden Irrigation Board
 
 <object data="Garden PCB schematic.pdf" type="application/pdf" width="600px" height="500px">
